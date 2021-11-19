@@ -103,7 +103,9 @@ var thatsAfunForm = new ThatsAfunForm({
 In this case each animation has a specific number of frames and each line has a different animation, one for each form field. Setting this up in the library is very easy:
 
 **spriteRow:** In our sprite we have several animations, here you choose the line that the animation you want is.
+
 **frames:** Here you define how many frames this animation has.
+
 **speed:** Here you define how many milliseconds each frame should last before going to the next one. Basically it's the same way cartoons are made. The smaller the number is, the faster your animation will be.
 
 Now in the last part, we define the actions for each field of the form.
@@ -133,7 +135,9 @@ Let's look at this part singly outside of the full code to make it easier to und
 You can have infinite fields and an action for each of the fields on your form. We have 3 types of action for each field:
 
 **onFocusIn:** Here is when the user clicks on the field.
+
 **onKeyUp:** This is when the user press a specific key into the field.
+
 **onFocusOut:** This is when the user leaves the field.
 
 The settings for each action are the same as onLoad, define the animation line in the sprite, the amount of frames and in the case of onKeyUp define the key you want.
