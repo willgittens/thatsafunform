@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://assets.betridee.com/thatsAfunForm_logo.jpg">
+  <img src="https://betridee.com/img/thatsAfunForm_logo.gif">
 </div>
 
 # That's a FUN form 
@@ -54,7 +54,7 @@ thatsAfunForm.start();
 Now let's configure our animation sprite, we use the same technique used by games to animate the form, see the example of a sprite:
 
 <div align="center">
-  <img src="https://assets.betridee.com/thatsAfunForm_sprite.jpg">
+  <img src="https://betridee.com/img/thatsAfunForm_sprite.jpg">
 </div>
 
 In a sprite the frames have a specific size, you will put this in the sprites configuration along with the image location.
