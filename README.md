@@ -20,7 +20,7 @@ I'm still working on getting everything Vanilla JS, but until then you need to u
 
 ## How to use?
 
-Upload the *ThatsAfunForm.js* file to your server and create the basic settings to integrate your form fields with the library. I tried to keep it as simple as possible, here we go:
+Upload the *thatsAfunForm.js* file to your server and create the basic settings to integrate your form fields with the library. I tried to keep it as simple as possible, here we go:
 
 First call the library using the Script tag
 
